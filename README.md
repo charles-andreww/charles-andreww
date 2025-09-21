@@ -2,7 +2,9 @@
 # Hi, I'm Carlos Andrés 👋
 
  
-🌍 Learning languages (code included)| 🎸 Arctic Monkeys’ #1 fan
+🌍 Learning languages (code included) | 
+
+🎸 Arctic Monkeys’ #1 fan
 
 ## 🚀 Technology Stack
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?logo=python&logoColor=white)
