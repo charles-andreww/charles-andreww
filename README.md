@@ -2,7 +2,7 @@
 # Hi, I'm Carlos Andrés 👋
 
  
-🌍 Learning languages (code included) | 
+🌍 Learning languages (code included)  
 
 🎸 Arctic Monkeys’ #1 fan
 
