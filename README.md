@@ -1,4 +1,3 @@
-![Banner](https://i.pinimg.com/1200x/87/97/dd/8797dd03f126d0370f5f5dcc3a66012d.jpg)
 
 # Hi, I'm Carlos Andrés 👋
 
