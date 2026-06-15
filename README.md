@@ -15,6 +15,3 @@
 
 
 
-## ✨ Projects
-- [Project Cassiopeia](https://github.com/charles-andreww/Project-Cassiopeia) – Open-source AI with Google Workspace integration & Audio I/O Vision mode. Check it out!
-
