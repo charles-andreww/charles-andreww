@@ -1,7 +1,7 @@
 
 # Hi, I'm Carlos Andrés 👋
 
-I am a 16-year-old software developer and independent researcher based in Spain. I specialize in designing Artificial Intelligence and Machine Learning algorithms, with a particular focus on hybrid neural architectures and intelligent automation. 
+I am a 16-year-old software developer and independent researcher based in Spain. I specialize in designing Artificial Intelligence and Machine Learning algorithms, with a particular focus on neural architectures and intelligent automation. 
 
 🌍 Learning new languages (code included)  
 🎸 Arctic Monkeys' #1 fan 
